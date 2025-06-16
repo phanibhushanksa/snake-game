@@ -1,4 +1,6 @@
-# Snake Game
+# Vibe Coding a Snake Game
+
+## This is just a fun project to build a Snake game with just Prompting using AI tools (Used Cursor)
 
 A classic Snake game built in Python using Pygame with modern UI and smooth controls.
 
